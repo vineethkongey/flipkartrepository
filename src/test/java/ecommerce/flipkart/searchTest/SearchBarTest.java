@@ -9,4 +9,8 @@ public class SearchBarTest {
 	public void groceryValues() {
 		System.out.println("enterd grocery value");
 	}
+	
+	public void mobileNames() {
+		System.out.println("enterd moblie names");
+	}
 }
